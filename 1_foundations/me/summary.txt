@@ -1,0 +1,14 @@
+• Building Generative AI solutions
+
+• Built Underthesea - the popular open-source Vietnamese NLP toolkit (1500+ github stars)
+
+My work centers on creating practical AI applications that bridge cutting-edge research with real-world business value - from custom LLM implementations to AI-powered automation systems that enhance productivity and unlock new possibilities for enterprise innovation.
+
+Specialties:
+
+- AI: Generative AI, Chatbot Development, Deep Learning
+- Big Data
+- Software Development
+
+Email: anhv.ict91 [at] gmail [dot] com
+Github: github.com/rain1024
